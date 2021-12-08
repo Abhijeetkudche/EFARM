@@ -5,10 +5,10 @@ EFARM is an Mobile Application which helps farmers to know about events, schemes
 .
 .
 1) Copy the link: 
-  //Link
+  https://github.com/Abhijeetkudche/EFARM.git
  
 2) Open a new project in a folder and then open terminal.
-  cmd : git clone link
+  cmd : git clone https://github.com/Abhijeetkudche/EFARM.git
  
 3) Locate the project folder by command :
   cmd : cd EFARM
