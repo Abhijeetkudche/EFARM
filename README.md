@@ -24,7 +24,7 @@ Hurray! You can now use and edit this app...!
 Screenshots:
 
 1. Login Page
-![ss1](https://user-images.githubusercontent.com/41530313/145245196-b703c1b8-9396-4edb-a116-1bb87f1b5657.jpg | width=50)
+<img src="https://user-images.githubusercontent.com/41530313/145245196-b703c1b8-9396-4edb-a116-1bb87f1b5657.jpg" width=200 height="400"/>
 2. Register Page
 ![ss2](https://user-images.githubusercontent.com/41530313/145245452-a6d3932d-1844-4eca-a4f3-4baf7fb87480.jpg)
 3. Home Page
